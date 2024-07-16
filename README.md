@@ -1,4 +1,4 @@
-### Seja Bem-vindo sou o Maurício Domingos👋Amante de tecnologia no geral em especial de programação,sigo aprendendo e melhorando. Sempre aberto a novos desafios.
+### Seja Bem-vindo sou o Maurício Domingos👋Amante de tecnologia no geral,sigo aprendendo e melhorando. Sempre aberto a novos desafios.
 
 ## Habilidades e Ferramentas
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
